@@ -1,5 +1,5 @@
-#Hi there 👋 I'm Himanshu
-<hr/>
+# Hi there 👋 I'm Himanshu
+
 <br/>
 
 
@@ -48,8 +48,8 @@ I'm working towards <strong>making a positive impact on Society</strong> !!</h3>
 
 <br />  
 <br />
-<hr/>
-#Other Stats
+
+## Other Stats:
 
 ![Himanshu's github stats](https://github-readme-stats.vercel.app/api?username=sachanh&show_icons=true&title_color=fee715ff&icon_color=79ff97&text_color=a9fef7&bg_color=151515)
 
