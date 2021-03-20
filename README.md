@@ -32,9 +32,8 @@ I'm working towards <strong>making a positive impact on Society</strong> !!</h3>
 
 <br/>
 <br/>
-[![Himanshu's github stats](https://github-readme-stats.vercel.app/api?username=sachanh&theme=blue-green)](https://github.com/sachanh/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sachanh&theme=blue-green)](https://github.com/sachanh/github-readme-stats)
+
 
 ## Socials:
 
