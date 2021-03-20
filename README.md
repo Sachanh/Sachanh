@@ -7,7 +7,7 @@
 I'm working towards <strong>making a positive impact on Society</strong> !!</h3>
 <br />
 
-[My Portfolio](https://http://devjoker.netlify.app//)
+[My Portfolio](https://devjoker.netlify.app/)
 
 ## Languages And Skills:
 
